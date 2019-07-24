@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box
+}
+.main-container{
+    display: inline-block;
+    
+    width: 1260px;
+    padding: 30px;
+}
+.search-bar{
+    width: 30%;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #333;
+    color: white;
+    outline: none;
+}
+.search-btn{
+    margin-left: 20px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #333;
+    color: white;
+    outline: none;
+}
+.entity{
+    color: darkblue;
+}
